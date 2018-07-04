@@ -1,2 +1,4 @@
 # rep-test
-Repository  Creation Test
+
+Hello there humanoid figure!
+  I am Kourosh Alasti, an avid ,but young, coder.
